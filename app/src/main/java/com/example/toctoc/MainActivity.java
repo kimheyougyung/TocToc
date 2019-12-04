@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     ArrayList<ChatMessage> list;
     MyAdapter ap;
-
+//kjhjk
     ListView listView;
     ImageView sendBtn;
     EditText msgEdit;
